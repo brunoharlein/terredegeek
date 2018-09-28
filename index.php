@@ -22,8 +22,20 @@
 <?php
   include "template/nav.php";
   include "template/header.php";
-  include "template/footer.php";
  ?>
+ <!-- end PHP -->
+
+ <!-- start html -->
+ <main>
+
+ </main>
+ <!-- end html -->
+
+ <!-- start include php footer -->
+ <?php
+   include "template/footer.php";
+  ?>
+  <!-- end PHP -->
 
 
   <script src="js/vendor/modernizr-3.6.0.min.js"></script>

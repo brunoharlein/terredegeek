@@ -104,6 +104,18 @@ textarea {
      margin-top: 0px;
      padding-top: 10px;
    }
+   li {
+     list-style: none;
+   }
+   i {
+     padding-bottom: 10px;
+     padding-right: 10px;
+   }
+   /* color links footer */
+   .colorBlue {
+     color: blue;
+   }
+
 
 
    /* header class */
@@ -111,11 +123,11 @@ textarea {
 
    /* main class */
 
+
    /* nav */
    nav {
-     /* border: 1px solid black; */
      height: 8vh;
-     /* background-color: green; */
+     background-color: green;
      display: flex;
      align-items: center;
      border-bottom: 2px solid black;
@@ -155,7 +167,14 @@ textarea {
      text-align: center;
    }
 
-
+   /* footer */
+   footer {
+     height: 20vh;
+     background-color: lightgrey;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+   }
 
 
 
