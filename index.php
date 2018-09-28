@@ -27,6 +27,60 @@
 
  <!-- start html -->
  <main>
+   <!-- title products left position -->
+   <div class="leftBlocMain">
+     <section>
+       <h2>Nos Produits</h2>
+       <h3>The best for the best ;-)</h3>
+     </section>
+     <audio controls="controls">
+      <source src="audio/modem.mp3" type="audio/mp3" />
+     </audio>
+     <section>
+       <h2>Our Products</h2>
+       <h3>Le meilleur des meilleurs ;-)</h3>
+     </section>
+   </div>
+   <!-- products bloc main page index.php -->
+   <div class="articlesBloc">
+     <article class="flex">
+       <h3>Modem 56k haute vitesse</h3>
+       <img src="img/modem.jpg" alt="un truc vieux">
+       <a href="product.php">Voir l'article</a>
+     </article>
+     <article class="flex">
+       <h3>Carte PCI modem 56k</h3>
+       <img src="img/cartemodem.jpg" alt="carte modem">
+       <a href="product.php">Voir l'article</a>
+     </article>
+     <article class="flex">
+       <h3>Windows95 4 disquettes</h3>
+       <img src="img/w95.jpg" alt="windows95">
+       <a href="product.php">Voir l'article</a>
+     </article>
+     <article class="flex">
+       <h3>modem via Compact-Flash</h3>
+       <img src="img/cfmodem.jpg" alt="modem">
+       <a href="product.php">Voir l'article</a>
+     </article>
+     <article class="flex">
+       <h3>adaptateur USB filaire</h3>
+       <img src="img/adapmodem.jpg" alt="modem">
+       <a href="product.php">Voir l'article</a>
+     </article>
+     <article class="flex">
+       <h3>Adaptateur USB Hyper vitesse</h3>
+       <img src="img/wifi.jpg" alt="modem">
+       <a href="product.php">Voir l'article</a>
+     </article>
+   </div>
+   <div class="">
+     <section class="flexVideos">
+       <iframe width="400" height="315" src="https://www.youtube.com/embed/3-Xr-U-8qcU?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+       <h3>Présentation de nos travaux</h3>
+       <iframe width="460" height="315" src="https://www.youtube.com/embed/GyDSgLvnPXU?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+     </section>
+   </div>
 
  </main>
  <!-- end html -->
