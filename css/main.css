@@ -100,6 +100,10 @@ textarea {
 
 
    /* commun rules */
+   h1 {
+     margin-top: 0px;
+     padding-top: 10px;
+   }
 
 
    /* header class */
@@ -141,6 +145,14 @@ textarea {
    }
    .bt5:hover {
      background-image: url(../img/pikachou.gif);
+   }
+
+   /* header */
+   header {
+     width: 100vw;
+     height: 15vh;
+     background-color: pink;
+     text-align: center;
    }
 
 

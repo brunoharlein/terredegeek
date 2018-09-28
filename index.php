@@ -18,9 +18,11 @@
 </head>
 
 <body>
-
+<!-- start include php nav and header -->
 <?php
-  include "template/nav.php"; 
+  include "template/nav.php";
+  include "template/header.php";
+  include "template/footer.php";
  ?>
 
 
