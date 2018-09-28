@@ -107,6 +107,42 @@ textarea {
 
    /* main class */
 
+   /* nav */
+   nav {
+     /* border: 1px solid black; */
+     height: 8vh;
+     /* background-color: green; */
+     display: flex;
+     align-items: center;
+     border-bottom: 2px solid black;
+   }
+   nav div a input {
+     /* background-color: yellow; */
+     width: 9vw;
+     height: 6vh;
+     margin-left: 15px;
+     box-shadow: 3px 3px grey;
+   }
+   .bt {
+     background-size: cover;
+     background-position: center;
+   }
+   .bt1:hover {
+     background-image: url(../img/Eyki.gif);
+   }
+   .bt2:hover {
+     background-image: url(../img/pika.gif);
+   }
+   .bt3:hover {
+     background-image: url(../img/pikuchu.gif);
+   }
+   .bt4:hover {
+     background-image: url(../img/catch.gif);
+   }
+   .bt5:hover {
+     background-image: url(../img/pikachou.gif);
+   }
+
 
 
 
