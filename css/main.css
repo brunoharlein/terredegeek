@@ -133,12 +133,12 @@ textarea {
      border-bottom: 2px solid black;
    }
    nav div a input {
-     /* background-color: yellow; */
      width: 9vw;
      height: 6vh;
      margin-left: 15px;
      box-shadow: 3px 3px grey;
    }
+   /* insertion gif  */
    .bt {
      background-size: cover;
      background-position: center;
