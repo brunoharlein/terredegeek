@@ -27,7 +27,19 @@
 
    <!-- start html -->
    <main>
-
+     <h2>Notre boutique</h2>
+     <div class="flexVideos">
+       <article class="">
+         <p class="pArticleShop">Notre boutique dans la ville de Conches-en-Ouche est la plus GEEK de la région.<br>
+         Notre équipe fait tout son possible pour trouver du matériel d'époque et surtout qui fonctionne.<br>
+         Pas facile de trouver une carte graphique AGP .... sauf pour Terre de GEEK !<br>
+         Voici pourquoi notre site est si "GEEKY" et 90 style ;-)<br>
+         Ce site, c'est nos meilleurs produits, notre savoir faire en matiére de produits "GEEK".
+         Nous espérons qu'il vous conviendra et que votre coeur de GEEK sera combler.<br>
+         @ bientôt dans notre boutique ou sur notre site.<br>Mr Robidou et son équipe.</p>
+       </article>
+       <iframe class="googleMap" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1309.6755005174616!2d0.942104842471887!3d48.96584248025557!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e16c055aa8d1c3%3A0xe5be241f705b47cd!2sEhpad+Conches+En+Ouche!5e0!3m2!1sfr!2sfr!4v1538333826605" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+     </div>
    </main>
    <!-- end html -->
 

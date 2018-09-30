@@ -27,17 +27,20 @@
 
  <!-- start html -->
  <main>
+   <!-- start pict and gif  -->
    <figure>
      <img src="img/new.gif" alt="new">
      <img src="img/w95.jpg" alt="w95">
      <img src="img/new.gif" alt="new">
    </figure>
+   <!-- start left bloc page -->
    <div class="flexProductDetail">
      <article class="MainDivArticleProductDetail">
        <h3>Windows95</h3>
        <p>Oui ! nous en avons un ! Version 4 disquettes<br>J'espére que vous avez un lecteur ?<br>Ce petit bijoux ne restera pas longtemps en boutique.<br>
        Cette piéce unique (C'est notre 3éme exemplaire depuis les 5 ans de la boutique)<br>fera le bonheur des GEEKS !!<br>Fétons ça avec une bordure aux couleurs de Windows95 !!</p>
      </article>
+     <!-- start caracteristique page  -->
      <section class="MainDivSectionProductDetail">
        <h3>Caractéristiques</h3>
        <p class="marginP">Version 4 disquettes 3,5 pouces</p>
@@ -47,9 +50,6 @@
        <a class="btnProductDetail" href="#">Acheter</a>
      </section>
    </div>
-
-
-
  </main>
  <!-- end html -->
 

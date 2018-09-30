@@ -171,6 +171,10 @@ textarea {
    p {
      margin-bottom: 0em;
    }
+   .googleMap {
+     width: 40%;
+     height: auto;
+   }
 
 
 
@@ -197,6 +201,8 @@ textarea {
      justify-content:space-around;
      /* background-color: pink; */
      margin: auto;
+     padding-top: 20px;
+     padding-bottom: 20px;
    }
    /* main index.php articles  */
 
@@ -219,11 +225,17 @@ textarea {
    .flex {
      display: flex;
      flex-direction: column;
-     align-items: center;  }
+     align-items: center;
+   }
+   .pArticleShop {
+     width: 100%;
+     height: 35vh;
+     border: 1px solid black;
+     padding: 10px 10px 0 10px;
+     box-shadow: 3px 2px 2px #82A0BC;
+   }
 
-
-
-   /* nav */
+   /************************************* nav */
    nav {
      height: 12vh;
      /* background-color: green; */
@@ -237,7 +249,7 @@ textarea {
      margin-left: 15px;
      box-shadow: 3px 3px grey;
    }
-   /* insertion gif  */
+   /************************************ insertion gif  */
    .bt {
      background-size: cover;
      background-position: center;
@@ -263,7 +275,7 @@ textarea {
      cursor: pointer;
    }
 
-   /* header */
+   /************************************************ header */
    header {
      width: 100vw;
      height: 15vh;
@@ -272,7 +284,7 @@ textarea {
      border-bottom: 2px solid black;
    }
 
-   /* footer */
+   /************************************************** footer */
    footer {
      height: 20vh;
      /* background-color: lightgrey; */
@@ -282,7 +294,7 @@ textarea {
      border-top: 2px solid black;
    }
 
-   /* productDetail.php css */
+   /****************************************** productDetail.php css */
    main figure img {
      height: 100%;
      width: auto;
