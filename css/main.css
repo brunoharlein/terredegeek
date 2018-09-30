@@ -141,6 +141,17 @@ textarea {
    .marginP {
      margin-bottom: 15px;
    }
+   .flexForm {
+     display: flex;
+     justify-content: space-around;
+     margin-top: 40px;
+     margin-bottom: 30px;
+   }
+   .flexBtn {
+     display: flex;
+     justify-content: center;
+     margin-bottom: 45px;
+   }
 
 
    /* commun rules */
@@ -175,6 +186,9 @@ textarea {
      width: 40%;
      height: auto;
    }
+   /* .slidecontainer {
+    width: 100%;
+   } */
 
 
 

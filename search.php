@@ -26,8 +26,63 @@
    <!-- end PHP -->
 
    <!-- start html -->
+   <!-- start search form  -->
    <main>
-
+     <h2>Une petite recherche s'impose</h2>
+     <div class="flexForm">
+      <form>
+       <p>
+        Choisissez le produit pour découvrir nos stocks: <br>
+        <input type="checkbox"/> <label>Modem 56k</label><br>
+        <input type="checkbox"/> <label>Carte PCI Modem 56k</label><br>
+        <input type="checkbox"/> <label>Windows95</label><br>
+        <input type="checkbox"/> <label>Modem via CF</label><br>
+        <input type="checkbox"/> <label>Adaptateur USB filaire</label><br>
+        <input type="checkbox"/> <label>Adaptateur USB Hyper Vitess</label><br>
+        <input type="checkbox"/> <label>Carte AGP HD</label><br>
+        <input type="checkbox"/> <label>Carte son HD</label><br>
+        <input type="checkbox"/> <label>CPU MMX Intel</label><br>
+       </p>
+      </form>
+      <form>
+        <label>Recherche par catégories :</label>
+         <select name="" id="">
+          <optgroup label="Logiciel">
+           <option>Windows95</option>
+          </optgroup>
+          <optgroup label="Matériel">
+           <option>carte AGP</option>
+           <option>carte son</option>
+           <option>CPU MMX</option>
+           <option>carte PCI Modem</option>
+          </optgroup>
+          <optgroup label="Élements ext">
+           <option>modem via CF</option>
+           <option>adaptateur USB wifi</option>
+           <option>adaptateur USB filaire</option>
+           <option>modem 56k</option>
+          </optgroup>
+         </select>
+      </form>
+     </div>
+     <div class="flexForm">
+       <form>
+        <p>
+         Choisissez la ville: <br>
+         <input type="checkbox"/> <label>Neuchâtel-en-Bray</label><br>
+         <input type="checkbox"/> <label>Nouzonville</label><br>
+         <input type="checkbox"/> <label>Serqueux</label><br>
+         <input type="checkbox"/> <label>Forge-les-eaux</label><br>
+        </p>
+       </form>
+       <form class="slidecontainer">
+         <p>Choisir une fourchette de prix: </p>
+        <input type="range" min="1" max="100" value="50" class="slider" id="myRange">
+       </form>
+     </div>
+     <div class="flexBtn">
+       <input type="submit" value="Afficher" />
+     </div>
    </main>
    <!-- end html -->
 
