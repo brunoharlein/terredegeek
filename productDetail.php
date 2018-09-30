@@ -27,9 +27,29 @@
 
  <!-- start html -->
  <main>
+   <figure>
+     <img src="img/new.gif" alt="new">
+     <img src="img/w95.jpg" alt="w95">
+     <img src="img/new.gif" alt="new">
+   </figure>
+   <div class="flexProductDetail">
+     <article class="MainDivArticleProductDetail">
+       <h3>Windows95</h3>
+       <p>Oui ! nous en avons un ! Version 4 disquettes<br>J'espére que vous avez un lecteur ?<br>Ce petit bijoux ne restera pas longtemps en boutique.<br>
+       Cette piéce unique (C'est notre 3éme exemplaire depuis les 5 ans de la boutique)<br>fera le bonheur des GEEKS !!<br>Fétons ça avec une bordure aux couleurs de Windows95 !!</p>
+     </article>
+     <section class="MainDivSectionProductDetail">
+       <h3>Caractéristiques</h3>
+       <p class="marginP">Version 4 disquettes 3,5 pouces</p>
+       <p class="marginP">État : Occasion en bon état. Installation faite en boutique.</p>
+       <p class="marginP">Garantie : Pas de garantie sur les logiciels en occasion.</p>
+       <h3 class="marginP">PRIX : 120€</h3>
+       <a class="btnProductDetail" href="#">Acheter</a>
+     </section>
+   </div>
 
 
-   
+
  </main>
  <!-- end html -->
 

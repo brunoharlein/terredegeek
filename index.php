@@ -31,14 +31,14 @@
    <div class="leftBlocMain">
      <section>
        <h2>Nos Produits</h2>
-       <h3>The best for the best ;-)</h3>
+       <h3>The best for the best ;-)<br>selection of the week</h3>
      </section>
      <audio controls="controls">
       <source src="audio/modem.mp3" type="audio/mp3" />
      </audio>
      <section>
        <h2>Our Products</h2>
-       <h3>Le meilleur des meilleurs ;-)</h3>
+       <h3>Le meilleur des meilleurs ;-)<br>Sélection de la semaine</h3>
      </section>
    </div>
    <!-- products bloc main page index.php -->
