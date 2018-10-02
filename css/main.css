@@ -97,6 +97,7 @@ textarea {
    Author's custom styles
    ========================================================================== */
    /* utility class */
+   /************************* page productDetail.php */
    figure {
      width: 90vw;
      height: 20vh;
@@ -106,14 +107,14 @@ textarea {
      justify-content: space-around;
    }
     .MainDivArticleProductDetail {
-     height: 37vh;
+     height: 40vh;
      width: 15vw;
      /* background-color: pink; */
      text-align: inherit;
      padding: 10px;
    }
     .MainDivSectionProductDetail {
-     height: 28vh;
+     height: 33vh;
      width: 75vw;
      /* background-color: yellow; */
      text-align: center;
@@ -141,6 +142,7 @@ textarea {
    .marginP {
      margin-bottom: 15px;
    }
+   /********************************************** end page productDetail */
    .flexForm {
      display: flex;
      justify-content: space-around;
@@ -152,12 +154,20 @@ textarea {
      justify-content: center;
      margin-bottom: 45px;
    }
+   /******************************** page contact.php */
+   .marginContact {
+     width: 80vw;
+     margin: auto;
+     padding-top: 30px;
+   }
 
 
    /* commun rules */
    h1 {
      margin-top: 0px;
      padding-top: 20px;
+     font-family: 'Press Start 2P', cursive;
+     font-size: 3.3em;
    }
    li {
      list-style: none;
@@ -178,6 +188,7 @@ textarea {
    h2 {
      margin-top: 35px;
      text-align: center;
+     font-family: 'Quantico', sans-serif;
    }
    p {
      margin-bottom: 0em;
@@ -185,6 +196,15 @@ textarea {
    .googleMap {
      width: 40%;
      height: auto;
+   }
+   h3 {
+     text-align: center;
+     margin-top: 30px;
+     font-family: 'Quantico', sans-serif;
+     font-size: 1.9em;
+   }
+   a {
+     font-family: 'Quantico', sans-serif;
    }
    /* .slidecontainer {
     width: 100%;
@@ -196,7 +216,6 @@ textarea {
 
 
    /* main class */
-
    /* left bloc main page index.php */
    .leftBlocMain {
      margin-top: 35px;
@@ -223,13 +242,13 @@ textarea {
    .articlesBloc {
      width: 95vw;
      height: 88vh;
-     /* background-color: green; */
+     /* background-color: #FBF9FF; */
      margin: auto;
      display: flex;
      flex-wrap: wrap;
      justify-content: space-around;
      margin-top: 35px;
-     margin-bottom: 35px;
+     margin-bottom: 55px;
    }
    article {
      width: 25vw;
@@ -252,7 +271,7 @@ textarea {
    /************************************* nav */
    nav {
      height: 12vh;
-     /* background-color: green; */
+     background-color: #EFE9E7;
      display: flex;
      align-items: center;
      border-bottom: 2px solid black;
@@ -292,8 +311,8 @@ textarea {
    /************************************************ header */
    header {
      width: 100vw;
-     height: 15vh;
-     /* background-color: pink; */
+     height: 18vh;
+     background-color: #FAF9F9;
      text-align: center;
      border-bottom: 2px solid black;
    }
@@ -301,7 +320,7 @@ textarea {
    /************************************************** footer */
    footer {
      height: 20vh;
-     /* background-color: lightgrey; */
+     background-color: #FAF9F9;
      display: flex;
      justify-content: center;
      align-items: center;
@@ -314,14 +333,6 @@ textarea {
      width: auto;
      background-size: cover;
    }
-
-
-
-
-
-
-
-
 
 /* ==========================================================================
    Helper classes

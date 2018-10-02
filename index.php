@@ -13,6 +13,7 @@
   <!-- Place favicon.ico in the root directory -->
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.0/css/all.css" integrity="sha384-lKuwvrZot6UHsBSfcMvOkWwlCMgc0TaWr+30HWe3a4ltaBwTZhyTEggF5tJv8tbt" crossorigin="anonymous">
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
+  <link href="https://fonts.googleapis.com/css?family=Press+Start+2P|Quantico" rel="stylesheet">
   <link rel="stylesheet" href="css/normalize.css">
   <link rel="stylesheet" href="css/main.css">
 </head>
@@ -74,6 +75,7 @@
        <a href="productDetail.php">Voir l'article</a>
      </article>
    </div>
+   <!-- videos link bottom page -->
    <div class="">
      <section class="flexVideos">
        <iframe width="400" height="315" src="https://www.youtube.com/embed/3-Xr-U-8qcU?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
